@@ -1,4 +1,4 @@
-# Awesome Civil Engineering Teaching
+# Civil Engineering Teaching Resources
 
 A curated list of free, verified resources for teaching and learning civil engineering —
 structural materials, surveying, and GIS. Maintained by
